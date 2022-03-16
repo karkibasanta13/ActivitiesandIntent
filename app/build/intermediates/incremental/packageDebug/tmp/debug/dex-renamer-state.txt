@@ -1,0 +1,4 @@
+#Wed Mar 16 07:54:56 NPT 2022
+base.0=C\:\\Users\\kbasa\\AndroidStudioProjects\\TwoActivitiesHomework\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
